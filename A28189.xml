@@ -1,0 +1,530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jacobites Catechism that is to say, an instruction to be learned of every person who either desires or expects to be confirmed by the late Bishop of Ely / by Benjamin Bird ...</title>
+            <author>Bird, Benjamin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28189</idno>
+            <idno type="STC">Wing B2949</idno>
+            <idno type="STC">ESTC R14704</idno>
+            <idno type="EEBO-CITATION">13590331</idno>
+            <idno type="OCLC">ocm 13590331</idno>
+            <idno type="VID">100653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 783:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jacobites Catechism that is to say, an instruction to be learned of every person who either desires or expects to be confirmed by the late Bishop of Ely / by Benjamin Bird ...</title>
+                  <author>Bird, Benjamin.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London and re-printed at Edinburgh :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Francis, 1638?-1700.</term>
+               <term>Jacobites --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100653:1"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:100653:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>THE JACOBITES CATECHISM, That is to ſay.</head>
+            <p>An INSTRUCTION to be learned of every Perſon who either deſires, or ex<g ref="char:EOLhyphen"/>pects to be confirmed by the Late Biſhop of <hi>ELY.</hi>
+            </p>
+            <p>By <hi>Benjamin Bird,</hi> Rector of <hi>Wooton fits Payn,</hi> near <hi>Lyme Regis</hi> in the County of <hi>Dorſet.</hi>
+            </p>
+            <figure/>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> in the Year, 1691.</p>
+         </div>
+         <div type="to_the_bookseller">
+            <pb facs="tcp:100653:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 93 -->
+            <head>TO THE BOOKSELLER.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> may ſee by the encloſed that the <hi>Jacobite Ca<g ref="char:EOLhyphen"/>techiſm</hi> hath left nothing by the <hi>Obſtruction</hi> it met with; the Author had no deſign to Burleſque the <hi>Church Catechiſm,</hi> nor to reflect upon the <hi>Creed, Lords Prayer, or Sacraments, for thoſe are all Sa<g ref="char:EOLhyphen"/>cred things,</hi> but he was willing it should look ſome<g ref="char:EOLhyphen"/>thing <hi>like a Catechiſm:</hi> He hath now omitted their <hi>Creed and their Prayer,</hi> till he better underſtands what they believe and when they Pray. Their <hi>Sacra<g ref="char:EOLhyphen"/>ments</hi> alſo are left out, becauſe ſome of them have paid dear for <hi>drinking Healths</hi> to K. <hi>James</hi> this last Aſſizes.</p>
+            <closer>
+               <salute>SIR.</salute> 
+               <signed>I am King <hi>Williams</hi> Loyal Subject, and your Real Friend <hi>Philirenes Junior.</hi>
+               </signed>
+               <dateline>Wotton, <date>29. Au<g ref="char:EOLhyphen"/>guſt, 1691.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere will ſpeedily be published the <hi>Wil<g ref="char:EOLhyphen"/>liamites Catechiſm,</hi> written by the Author of this Catechiſm.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:100653:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>THE JACOBITES CATECHISM.</head>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>WHat is your Name?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+JACOBITE.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Who gave you that name?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+The WILLIAMITES of this Nation in the day when I declared my ſelf a favourer of Popery, and promoter of Arbitrary Government.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Did they promiſe any thing further for you to make you keep up your Name;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Yes.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Pray tell me what it was;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+They did promiſe three things.
+<list>
+                  <item>1. That as my Forefathers had done ſo, I should <hi>follow their ſteps,</hi> in ſiding with <hi>French</hi> Dragoons, and <hi>Irish</hi> Cut-throats, againſt my native Countrey.</item>
+                  <item>2, That I should renounce the <hi>English</hi> Laws, and Liber<g ref="char:EOLhyphen"/>ties of the subject;</item>
+                  <item>3. That I should come very short of that Love I bear to the <hi>Reformed Religion,</hi> and my <hi>Proteſtant Brethren</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Doſt thou think thou art any wayes obliged to Act what they promiſed in thy Name;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Yes verily, and by <hi>Romes</hi> help ſo I will, and I heartily thank <hi>our Earthly Father Lewis Le Grand,</hi> that he has taken us into his protection, and I queſtion not but he will be as kind to us as he has been to the <hi>Hugonots</hi> of his own Countrey.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>But your Principles of Government both in Church and State, are not the ſame which he has taught them there;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Indeed we are not yet ſo abſolutely <hi>refined</hi> in nei<g ref="char:EOLhyphen"/>ther as 'tis there, but we have endeavoured to inſtil them into the People of our <hi>Nation</hi> for above theſe 30. <hi>Years.</hi>
+            </p>
+            <p>
+               <label>Queſt,</label>
+               <lb/>
+               <hi>What principles have you taught them concerning the State?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+We have taught them, that as there is but one <hi>God in Heaven,</hi> ſo there ought to be but one Government one
+<pb n="2" facs="tcp:100653:3"/>
+               <!-- PDF PAGE 94 -->Earth, and thats <hi>Monarchical both in Church and State,</hi> for as 'tis ſaid, <hi>by me Kings Reign,</hi> ſo in the Church Bishops ought to govern, and thoſe two are ſo twiſted one in the other, that as 'tis our Maxime, <hi>No Bishop, no King,</hi> ſo they who are Ene<g ref="char:EOLhyphen"/>mies to <hi>Monarchy</hi> and <hi>Epiſcopacy,</hi> are Enemies to all Govern<g ref="char:EOLhyphen"/>ment both in the Church and State for as there can be no State without <hi>Kings,</hi> ſo there <hi>can be no Church without Bi<g ref="char:EOLhyphen"/>shops,</hi> and therefore I blame the <hi>New Williamite Church of England,</hi> for compoſing a Form of Prayer for all the Re<g ref="char:EOLhyphen"/>formed Churches, ſeing we ne're own'd them for true Churches, tho' we own the Church of <hi>Rome</hi> for a true Church.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What do theſe Principles lead you to follow;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+They lead us to follow and acknowledge Three Things.
+<list>
+                  <item>1. That our gracious Monarch K. <hi>James</hi> is our only King <hi>de Jure.</hi>
+                  </item>
+                  <item>2. That his ſuppos'd Son the <hi>Welch Prince</hi> will in due time redeem us, and all of our Loyal Principles, from our preſent Bondage, to a Prince of the Reformed Religion.</item>
+                  <item>3. That none are truely Loyal who are not of our <hi>Club</hi> and <hi>Societies.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Is there no Laws or Rule that you are to obey for your better direction, in practiſing what you shall learn;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Yes there are two particular Orders which we should Obey.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Which be they;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+1. Render to <hi>Caeſar</hi> the things which are <hi>Cafars.</hi> And 2 unto God the things which are Gods.</p>
+            <p>
+               <hi>What do they chiefly teach you;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Two things.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Which be they;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+               <list>
+                  <item>1. We are taught what we are to render to our King.</item>
+                  <item>2. What we owe towards God.</item>
+               </list>
+            </p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What is it you are to render to your King;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+We are to own him for a <hi>Caeſar,</hi> and that he may govern <hi>Deſpotically,</hi> and is not tyed up to the Laws of the Land to which he has <hi>ſworn,</hi> but that he may <hi>impoſe Taxes,</hi> &amp;c. <hi>without conſent of Parliaments,</hi> and the People are bound in Conſcience on pain of <hi>Eternal Damnation</hi> to obey; for we are not to enquire our <hi>Duty to our King</hi> out of the known Laws of the Land, but from the Holy Scriptures, as they are
+<pb n="3" facs="tcp:100653:3"/>
+               <!-- PDF PAGE 94 -->expounded by theſe Ancient Fathers of the Church, <hi>Sibthorp</hi> and <hi>Manwaring,</hi> &amp;c. that gape after Court preferment<g ref="char:punc">▪</g> who would fain Enſlave the Subject to advance themſelves.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What have you been taught that you owe to God;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+To render to God the things that are Gods, as are the <hi>Ceremonies of our Church,</hi> which are in a manner as holy as the <hi>Cenſors</hi> of Old, and we are not to part with the leaſt of them to gratify our weak Brethren, who are ſo Sacrilegious, as to endeavour to Rob the Church of the <hi>White Robe, the Wife of the Wedding Ring, the Infant of the Inviſible Bag of Chriſtianity,</hi> which he wears in his Forehead, and the devout Chriſtian of his genuflection at the high Altar.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+My good Child, <hi>know that thou art not able to do all this of thy ſelf without calling in</hi> Forraign Aid and Aſſiſ<g ref="char:EOLhyphen"/>tance; <hi>Therefore let me hear what Endeavours thou wilſt uſe to thy power for effecting it;</hi>
+            </p>
+            <p>
+               <label>Anſw,</label>
+1. I will endeavour it three ways.
+<list>
+                  <item>1. I will (as we have from the beginning of the Re<g ref="char:EOLhyphen"/>formation) labour to foment the differences amongſt all Pro<g ref="char:EOLhyphen"/>teſtants whatſoever, that I may once more <hi>blow thoſe Coals to a Flame,</hi> as may conſume them and their Church to Ashes, ſo as we may once again come to practiſe thoſe things which I have now learned.</item>
+                  <item>2. I will endeavour to keep the wounds of the Church open and Bleeding, and excite the moſt <hi>Furious of both par<g ref="char:EOLhyphen"/>ties,</hi> and villifie moderate Men, and Men of <hi>healing Spirits,</hi> to make them be looked on as <hi>Lukewarm Laodiceans,</hi> and only fit to be ſpewed out of the mouths of both Parties, whilſt we cry aha! ſo we wou'd have it.</item>
+                  <item>3. I will as often as I can poſſible, keep up a correſpon<g ref="char:EOLhyphen"/>dence with <hi>Papiſts</hi> and the <hi>French Court,</hi> as we have hitherto done, by inviting the <hi>French laſt year,</hi> and by our continual advertiſing them of the <hi>State of the Kingdom,</hi> and what <hi>Ships</hi> are going out or coming in, that the immortal <hi>Lewis</hi> may be in the better Capacity to help us: for at preſent our <hi>Cauſe</hi> is ſo ſunk, and that within theſe ſix months, I have ſeen the melting down of five of our <hi>Golden-Candleſticks,</hi> for the ſupport of the <hi>Cauſe.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Is there no other Rube that you are to practiſe;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Yes, but it has been exploded theſe thirty years.</p>
+            <p>
+               <pb n="4" facs="tcp:100653:4"/>
+               <!-- PDF PAGE 95 -->
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What is it;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Thou shalt love thy Neighbour as thy ſelf, or do as thou wouldeſt be done unto.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Have you any diſtinguishing Mark whereby you may know who are of the ſame Profeſſion with you.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Yes Two, as abſolutely neceſſary to diſtinguish the Members of our Society.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What are they;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+1. A Health to our old Maſter King <hi>James:</hi> And 2dly. Another to our young Maſter the <hi>Welch Prince,</hi> who has all our good <hi>Wishes.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>Why do you ſo often drink healths to</hi> K. James:</p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Becauſe as <hi>Mahomes,</hi> ſaid, there is a Devil in every Berry of the Grape, and when the Devil is got in, we are be<g ref="char:EOLhyphen"/>holding to them that by a good Fine will conjure him out again.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What mean you by the word</hi> Health.</p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+I mean an outward Appearance of our inward and hearty Affection to K. <hi>James,</hi> the <hi>Welch Prince,</hi> and the Popish Intereſt.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What is required of them who enter into theſe so<g ref="char:EOLhyphen"/>cieties:</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+To examine themſelves what Devil prompted them to invite in the Prince of <hi>Orange</hi> contrary to their Doctrine of <hi>Non-Reſiſtance</hi> and <hi>Paſſive Obedience,</hi> and whether they do heartily and unfeignedly repent of that thing, and ſtead<g ref="char:EOLhyphen"/>faſtly purpoſe to continue their Loalty to King <hi>James</hi> for the time to come, and if God should reſtore their old Maſter again, whether they would not ſoon grow weary of him, and <hi>Father Peters,</hi> and whether they are in Charity with all Men, eſpecially with the <hi>Prince of Orange,</hi> who came in at their Invitation, but would not be prevailed on to go out again at their Intreaty, being loath to leave them in a worſe condition then he found them.</p>
+            <p>
+               <label>Qu.</label>
+               <lb/>
+               <hi>But are you not guilty of great ingratitude to the Prince of</hi> Orange, <hi>that ventured all he had to ſave you from Ruine.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+He did'nt ſave us only, but Proteſtant Diſſenters as well as we, and is kinder to them than we do deſire.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>But muſt your Eye be evil becauſe his is good.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+The truth is, we would have all the watter run in to our MILL.</p>
+            <p>
+               <pb n="5" facs="tcp:100653:4"/>
+               <!-- PDF PAGE 95 -->
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What reaſon can you</hi> Jacobites <hi>give that you had rather be Papiſts than Presbyterians</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Becauſe we can have more Elbow-room amongſt the Papiſts than among thoſe ſtraight lac'd Diſciplinarians.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What think you of ſome of the Fathers of the Church of the</hi> Higheſt Rank, <hi>that are for</hi> Peace and Agreement <hi>with others, ſince 'tis only in ſmall matters that we differ.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+We ſnarle, and Burleſque, and affront them, becauſe we think them Luke-warm in our Religion. For should we give the Diſſenters an Inch, they would take an Ell, no<g ref="char:EOLhyphen"/>thing will ſatisfy them but the <hi>ruine of the Church,</hi> as it is Eſtablished by Law.</p>
+            <p>
+               <label>Queſt,</label>
+               <lb/>
+               <hi>Suppoſe they were tryed, and ſomewhat leſs would pleaſe them.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+I am never for yielding to that, for our Church is <hi>ſufficiently Reform'd</hi> already to our minds, tho' not to theirs.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>How long may we teach</hi> Paſſive Ob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dience <hi>before. the Great Men of the Kingdom will believe what we ſay;</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+               <hi>Till Doomsday.</hi> For they will give the Parſon the hearing, who to get Preferment will Preach up that Doctrine but are very unwilling to be brought to Practice it.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What made you no more concern'd for the loſs of thoſe brave Patriots of your Countrey,</hi> Eſſex, Ruſſel; <hi>&amp;c. who loſt their Lives in defence of their Country and its Liberties:</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+By reaſon we thought them not enough bigotted to our wayes, tho' they were for the Church of <hi>England,</hi> yet they were too moderate for to keep our Friendship long.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What muſt the</hi> poor Proteſtants in <hi>Ireland think of you, who were ſo neare Ruine by the means of your ſlow pro<g ref="char:EOLhyphen"/>ceeding here.</hi>
+            </p>
+            <p>
+               <label>Anſw,</label>
+               <lb/>
+They know e're this what one of our Party ſaid of them. Hang them they are a <hi>Pack of Phanaticks,</hi> and eſpe<g ref="char:EOLhyphen"/>cially Northward <hi>Scotch Presbyterians</hi>
+            </p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What Opinion will the</hi> States of Holland <hi>and the</hi> 
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roteſtant princes of Germany, <hi>have of you for your carriage to <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prince that they eſteemed with Men and Money to come to our Relief.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+They may think if they had not been in danger <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves, by the growing greatneneſs of the <hi>French King</hi> it had been no matter if we had perished.</p>
+            <p>
+               <pb n="6" facs="tcp:100653:5"/>
+               <!-- PDF PAGE 96 -->
+               <label>Queſt.</label>
+               <lb/>
+               <hi>What shall the</hi> Emperor of Germany <hi>think of you that you who pretend to be Proteſtants should have any kind<g ref="char:EOLhyphen"/>neſs for</hi> King Lewis, <hi>that would root out the</hi> Northern Here<g ref="char:EOLhyphen"/>ſie <hi>both at Home and Abroad.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+He may eaſiely ſee that we are only Proteſtants by the cuſtome of our Countrey where we live, and that our Religion (for all our pretences) is to chuſe: and ſay as one of his predeceſſors once did, <hi>that the King of England as a King of Devils.</hi>
+            </p>
+            <p>
+               <label>Queſt,</label>
+               <lb/>
+               <hi>Why ſince you have ſo great a kindneſs for King</hi> Lewis, <hi>will be not allow the</hi> English Fugitives <hi>a Chappel in your old Maſters palace, for the Exerciſe of that</hi> little Re<g ref="char:EOLhyphen"/>ligion <hi>they carried over with them.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+He is loath that any <hi>Hereſie</hi> should be preach'd on Catholick ground, and as for the <hi>Doctrine of Non-Reſiſtance and Paſſive Obedience,</hi> his People have been taught that ſufficiently by the <hi>Common Hang man,</hi> ſo that there is no need of our Proaching it up there.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>But are you not Ashamed that you should be Popish Tools ſo long as you were in the former Reigns.</hi>
+            </p>
+            <p>
+               <label>Anſw</label>
+               <lb/>
+We did not think K. J. would have laid us aſide ſo ſoon as he did, but he repented of it afterwards; and if he had continued, we should have been his white Boyes once more.</p>
+            <p>
+               <label>Queſt.</label>
+               <lb/>
+               <hi>But willt not the English. and French Papiſts laugh at you, to ſee you ſo willing to be fool'd by them a ſecond time, that have been cheated by them once already.</hi>
+            </p>
+            <p>
+               <label>Anſw;</label>
+               <lb/>
+We ha'nt time to think of that, we are <hi>ſo mad,</hi> that we are got under the yoake of Princes, that are Enemies to Looſeneſs and Debauchery (and as we <hi>Jacobites</hi> think) ſmell too much of <hi>Puritaniſm.</hi>
+            </p>
+            <p>
+               <label>Queſt,</label>
+               <lb/>
+               <hi>Seing you are ſo much for the Papiſt and the</hi> French Intereſt, <hi>what would you do if the French King should as laſt reject and ſlight you as he did</hi> K. C. <hi>and your Old Maſter.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/>
+Then we will march for the <hi>Holy Land,</hi> for our Maſter is to ſucceed <hi>Godfrey</hi> King of <hi>Jeruſalem,</hi> as ſoon as the French Monarch has Conquered <hi>Aſia,</hi> and to be Crown<g ref="char:EOLhyphen"/>ed with Thorns in that Holy City as <hi>Godfrey</hi> was formerly.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100653:5"/>
+            <!-- PDF PAGE 96 -->
+            <pb n="6" facs="tcp:100653:6"/>
+            <!-- PDF PAGE 97 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100653:6"/>
+            <!-- PDF PAGE 97 -->
+         </div>
+      </body>
+   </text>
+</TEI>
